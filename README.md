@@ -1,5 +1,3 @@
-Tool to get memory allocated from vcd triggering its api
-
 ## Description
 
 This tool as it is now can only get the allocated memory from a virtual
