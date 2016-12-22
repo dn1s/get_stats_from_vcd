@@ -11,7 +11,7 @@ Example json file
   "user": "test",
   "password": "test123",
   "base_url": "https://test.vcd.com/api/",
-  "url_filter": "filter=(vdcName==test_vdc)"
+  "url_filter": "filter=(vdcName==test_vdc)",
   "organization": "my_organization"
 }
 ```
